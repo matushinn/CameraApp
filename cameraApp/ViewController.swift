@@ -27,10 +27,6 @@ class ViewController: UIViewController,AVCapturePhotoCaptureDelegate {
     var image:UIImage?
     
     
-    
-    
-    
-
     override func viewDidLoad() {
         super.viewDidLoad()
         DispatchQueue.main.async {
